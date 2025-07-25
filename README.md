@@ -41,15 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lejinleo&show_icons=true&theme=dark" alt="lejinleo" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lejinleo&layout=compact&theme=dark" alt="lejinleo" />
-</p>
-
----
 
 ### 🔥 Project Highlights
 
