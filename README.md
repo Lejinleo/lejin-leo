@@ -3,11 +3,11 @@
 
 ---
 
-- 🎙️ I’m currently working on **Deepfake Audio Detection** using MFCC + SVM + Attention Neural Networks  
+- 🎙️ I've worked on **Deepfake Audio Detection** using MFCC + SVM + Attention Neural Networks  
 - 🎥 I’ve also built a **Deepfake Video Detection System** using CNN + GNN + Streamlit  
-- 🧠 I’m interested in **AI for Security**, **Digital Forensics**, and **Biometric Authentication**  
+- 🧠 I’m currently doing my final year project  in ,  **Biometric Authentication using GAIT RECOGNITION**  
 - 👨‍💻 All of my projects are available at [github.com/lejinleo](https://github.com/lejinleo)  
-- 📫 How to reach me: **lejinleo@gmail.com**
+- 📫 How to reach me: **lejinleo7102003@gmail.com**
 
 ---
 
